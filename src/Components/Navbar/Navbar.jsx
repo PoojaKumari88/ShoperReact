@@ -44,7 +44,7 @@ const Navbar = () => {
             </ul>
 
             <div className="nav-login-cart">
-                <Link to='/login'>
+                <Link to='/loginsignup'>
                     <button>Login</button></Link>
                 <Link to='/cart'>
                     <img src={cart_icon} alt="" />
